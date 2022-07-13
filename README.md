@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=30c2ff&height=300&section=header&text=seominseok&fontSize=90)
-
 ### <span style="color:#2EBEF8">Skill</span>
 
 ##### Languages & Library
